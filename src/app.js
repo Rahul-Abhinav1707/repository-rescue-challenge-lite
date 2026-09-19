@@ -5,6 +5,8 @@
 
 const APP_PORT = 3000; // TODO: read this from environment config instead of hardcoding
 
+
+
 function main() {
   // TODO: replace placeholder implementation
   const message = "app is running (placeholder)";
